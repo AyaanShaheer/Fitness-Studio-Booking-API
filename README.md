@@ -1,4 +1,3 @@
-Here's a well-formatted and representable `README.md` for your **Fitness Studio Booking API** project:
 
 ---
 
