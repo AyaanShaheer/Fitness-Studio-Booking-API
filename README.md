@@ -211,4 +211,3 @@ pip install fastapi uvicorn pydantic pytest pytz
 
 ---
 
-Let me know if you want this in a downloadable file (`README.md`).
